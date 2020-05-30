@@ -1,0 +1,3 @@
+[submodule "LibraryManageSystem"]
+	path = LibraryManageSystem
+	url = https://github.com/Crane-Mocker/database_proj.git

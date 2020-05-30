@@ -1,0 +1,9 @@
+create table Library(
+ID varchar(10) not null,
+Name varchar(20) not null,
+Address varchar(100),
+primary key(ID)
+);
+insert into Library values("1","信图","信息学部");
+insert into Library values("2","工图","工学部");
+insert into Library values("3","总图","文理学部");
